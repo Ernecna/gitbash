@@ -1,5 +1,10 @@
 # gitbash
 test
-other comm
+
+other commasdasd
 
 branch degisti
+
+
+dfidfdfdfdfdfdf
+
